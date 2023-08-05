@@ -1,5 +1,7 @@
 # Exploratory Data Analysis - Sports 📊
 
+![image](https://github.com/Pramit2021/Exploratory-Data-Analysis-Sports/assets/93142399/814c4331-0a72-4499-8080-30a997799716)
+
 ## ❓ Problem Statement
 
 Data analysis helps sports entities evaluate the performance of their athletes and assess the recruitment necessary to improve the team performance. It also evaluates the strong and weak areas of their challenger, enabling coaches to make the right decision on their tactics.
