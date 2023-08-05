@@ -1,4 +1,4 @@
-<h1>Exploratory Data Analysis - Sports 📊</h1>
+# Exploratory Data Analysis - Sports 📊
 
 ## ❓ Problem Statement
 
