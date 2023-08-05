@@ -26,3 +26,7 @@ Data analysis helps sports entities evaluate the performance of their athletes a
 3. Runs scored in 1rst inning were highest in the year 2013, while in the second inning it was highest in the year 2012. In every year runs scored were higher in the first inning compared to second inning
 
 4. Total Runs scored were maximum by V Kohli in every match. CH Gayle became man of the match most frequently.
+
+5. Number of matches won by runs were more than the number of matches won by wickets.
+
+6. 
