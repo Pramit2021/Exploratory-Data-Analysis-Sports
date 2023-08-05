@@ -29,4 +29,4 @@ Data analysis helps sports entities evaluate the performance of their athletes a
 
 5. Number of matches won by runs were more than the number of matches won by wickets.
 
-6. 
+6. Matches won were maximum with toss decision field.
