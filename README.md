@@ -4,7 +4,7 @@
 
 ## ❓ Problem Statement
 
-Data analysis helps sports entities evaluate the performance of their athletes and assess the recruitment necessary to improve the team performance. It also evaluates the strong and weak areas of their challenger, enabling coaches to make the right decision on their tactics.
+Data analysis helps sports entities evaluate the performance of their athletes and assess the recruitment necessary to improve the team performance. It also evaluates the strong and weak areas of their challenger, enabling coaches to make the right decision on their tactics. Perform ‘Exploratory Data Analysis’ on dataset ‘Indian Premier League’. As a sports analysts, find out the most successful teams, players and factors contributing win or loss of a team.
 
 ## Tools Used 
     1. Excel
